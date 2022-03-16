@@ -28,10 +28,15 @@ Install all the npm packages in frontend and backend code . Go into the project 
 npm install
 ```
 
-In order to run the application Type the following command
+In order to run the frontend application Type the following command
 
 ```bash
 npm start
+```
+In order to run the backend server Type the following command
+
+```bash
+node bin/www
 ```
 
 The React Application Runs on **localhost:3000**
